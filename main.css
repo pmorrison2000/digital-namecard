@@ -36,6 +36,10 @@ img.profile-pic {
 	border-radius: 50%;
 }
 
+img.company-logo {
+	height: 6em;
+}
+
 .container {
 	margin: 0 auto;
 	position: relative;
@@ -124,7 +128,7 @@ img.profile-pic {
 }
 
 .primary-info {
-	height: 15%;
+	height: auto;
 }
 
 .secondary-info {
